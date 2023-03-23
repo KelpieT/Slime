@@ -186,10 +186,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 8003535746152934916}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe2c1c2051292d64e97defd8633417d0, type: 3}
+  m_Script: {fileID: 11500000, guid: 6c4b9446b3017ad458009de0bb2bef3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  unitData: {fileID: 11400000, guid: 3a3437a73b01f6640ab44ecf81d8652c, type: 2}
   weaponOwner: {fileID: 8003535745701986423}
 --- !u!1 &8003535746883131743
 GameObject:
@@ -235,4 +234,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 898d067f886a73a4b91d6db232578131, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  weaponStatsData: {fileID: 11400000, guid: c53b5b4d4a120644698de13675a5c0e6, type: 2}
